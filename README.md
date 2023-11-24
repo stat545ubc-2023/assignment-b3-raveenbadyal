@@ -12,24 +12,14 @@ The dataset can be installed and loaded into R. The data set originates from gap
 # Contents
 
 - The README.Rmd file (this file) gives an overview of the repository
-  for Assignment B1.
+  for Assignment B3.
 - The README.md file is the knitted format of the Rmd file.
-- The rbpack folder contains all files necessary for installing and
-  reviewing the rbpack package.
-- The rbpack folder contains the following files that were generated
-  when creating the rbpack package:
-  - DESCRIPTION: contains package metadata.
-  - LICENSE: generated when determining the license for the package.
-  - NAMESPACE: contains a list of the functions in the package.
-  - README.Rmd: Code format of high-level description of the package.
-  - README.md: Knitted format of the README.Rmd file.
-  - tests folder: contains the tests for the package
-  - man folder: contains metadata for each function in the package.
-  - R folder: contains the R script for the code of the function.
+- The gapminder.csv file is a csv format file of the gapminder data set.
+The RBApp folder contains a folder for the rsconnect function that published the app to shinyapps.io
+-   the www folder contains an image used in making the app
+-   the app.R file contains the code needed to make the app
 
 # File Engagement
 
 To engage with these files, . Version control was used to connect edits
-made to the Rmd file in RStudio to Github. Devtools was used to create
-the package in RStudio. If the goal is to review the final project, a
-readable format is available on Github in the md file format.
+made to the Rmd file in RStudio to Github. The application made using the shiny package in R can be viewed at the link provided above.
