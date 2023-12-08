@@ -15,9 +15,10 @@ The dataset can be installed and loaded into R. The data set originates from gap
   for Assignment B3.
 - The README.md file is the knitted format of the Rmd file.
 - The gapminder.csv file is a csv format file of the gapminder data set.
-The RBApp folder contains a folder for the rsconnect function that published the app to shinyapps.io
--   the www folder contains an image used in making the app
--   the app.R file contains the code needed to make the app
+- The CopyOfRBApp folder contains files for the updated RBApp with new features
+- The RBApp folder contains a folder for the rsconnect function that published the app    to shinyapps.io
+- the www folder contains an image used in making the app
+- the app.R file contains the code needed to make the app
 
 # File Engagement
 
